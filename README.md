@@ -1,1 +1,1 @@
-Projeto de aplicativo mobile sendo desenvlvido por iniciante que será utilizado para mostrar dados específicos de cada modelo de máquina apresentado. De maneira interativa, o usuário poderá escolher o modelo e verificar os dados sobre cada máquinario
+Projeto de aplicativo mobile sendo desenvolvido por iniciante que será utilizado para mostrar dados específicos de cada modelo de máquina apresentado. De maneira interativa, o usuário poderá escolher o modelo e verificar os dados sobre cada máquinario. 
